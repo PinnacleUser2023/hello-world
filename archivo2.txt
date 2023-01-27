@@ -1,3 +1,5 @@
 This is the new archivo2
 This line has been added from the github website
 This line has been added in order to test the "pull" command on local git
+
+This lines has been added from Visual Studio Code
